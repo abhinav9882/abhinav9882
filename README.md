@@ -4,13 +4,13 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 - 🌱 I’m currently learning **DSA, Web developement**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-gupta-44bb451b1/](https://www.linkedin.com/in/ravi-gupta-44bb451b1/)
-- 💬 Ask me about **C++,DSA,HTML,CSS,Javascript**
-- 📫 How to reach me **guptaravicse22@gmail.com**
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhinav-07a915227/](https://www.linkedin.com/in/abhinav-07a915227/)
+- 💬 Ask me about **JAVA,DSA,HTML,CSS,Javascript**
+- 📫 How to reach me **abhinavsingh7703@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/ravigup81300184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ravigup81300184" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ ravi-gupta-44bb451b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ravi-gupta-44bb451b1" height="30" width="40" /></a>
+<a href="https://x.com/Abhinav17443922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Abhinav17443922" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinav-07a915227/" target="blank"><img align="center" src="  " alt="https://www.linkedin.com/in/abhinav-07a915227/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/__ravi_gupta226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__ravi_gupta226/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucojospamwhg5j9sj4sgtbzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucojospamwhg5j9sj4sgtbzw" height="30" width="40" /></a>
 </p>
